@@ -14,7 +14,7 @@ public class Main {
     }
 
     public static void numberGradeToLetterGrade(Scanner scanner) {
-        System.out.println("Grading Progra");
+        System.out.println("Grading Program");
         System.out.println("Provides letter grade given number grade.");
         System.out.print("Please input a number grade: ");
         double numberGrade = scanner.nextDouble();
